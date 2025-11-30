@@ -43,8 +43,8 @@ for topic in TOPICS:
             with open(readme_path, "r", encoding="utf-8") as f:
                 content = f.read()
 
-            diff_match = re.search(r"Difficulty:\s*(\w+)", content)
-            date_match = re.search(r"Date:\s*(.*)", content)
+            diff_match = re.search(r"Difficulty:[*]+\s*(\w+)", content)
+            date_match = re.search(r"Date:[*]+\s*(.*)", content)
 
             difficulty = diff_match.group(1) if diff_match else "Unknown"
             date = date_match.group(1) if date_match else "-"
