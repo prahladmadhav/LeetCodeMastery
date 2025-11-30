@@ -9,12 +9,15 @@ Each problem includes:
 ---
 
 ## 📊 Summary
-- **Total Problems:**  
-- **Easy:**  
-- **Medium:**  
-- **Hard:**  
+- **Total Problems:** 1  
+- **Easy:** 1  
+- **Medium:** 0  
+- **Hard:** 0  
+- **Last Updated:** 2025-11-30 16:02:56 
 
----
+--- 
+
+
 
 ## 📚 Index of Problems
 
