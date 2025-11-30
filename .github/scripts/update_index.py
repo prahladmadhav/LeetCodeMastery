@@ -78,6 +78,20 @@ new_table = (
 
 updated = readme[:start] + new_table + "\n\n" + readme[end:]
 
+start = updated.find("- **Total Problems:**")
+end = updated.find("## 📚 Index of Problems")  # end of table
+
+summary = (
+    f"- **Total Problems:** {len(rows)}  \n"
+    f"- **Easy:** {count_easy}  \n"
+    f"- **Medium:** {count_medium}  \n"
+    f"- **Hard:** {count_hard}  \n"
+    f"- **Last Updated:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} \n\n"
+    "--- \n\n"
+)
+
+updated = updated[:start] + summary + "\n\n" + updated[end:]
+
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(updated)
 
