@@ -20,7 +20,7 @@ Each problem includes:
 
 | No. | Problem | Topic | Difficulty | Date Completed | Link |
 |-----|---------|--------|-------------|----------------|------|
-| 88 | Merge Sorted Array | array | Unknown | ** 2025-11-30 | [View](array/0088-merge-sorted-array) |
+| 88 | Merge Sorted Array | array | easy | 2025-11-30 | [View](array/0088-merge-sorted-array) |
 
 ## 📁 Folder Structure
 
