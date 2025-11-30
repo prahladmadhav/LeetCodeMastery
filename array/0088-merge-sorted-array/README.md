@@ -14,8 +14,6 @@ https://leetcode.com/problems/merge-sorted-array/
 
 ## Approach
 
-(Explain your reasoning, algorithms, and edge cases here.)
-
 ---
 
 ## Complexity
