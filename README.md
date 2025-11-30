@@ -9,11 +9,11 @@ Each problem includes:
 ---
 
 ## 📊 Summary
-- **Total Problems:** 1  
-- **Easy:** 1  
+- **Total Problems:** 2  
+- **Easy:** 2  
 - **Medium:** 0  
 - **Hard:** 0  
-- **Last Updated:** 2025-11-30 16:02:56 
+- **Last Updated:** 2025-11-30 16:10:54 
 
 --- 
 
@@ -23,6 +23,7 @@ Each problem includes:
 
 | No. | Problem | Topic | Difficulty | Date Completed | Link |
 |-----|---------|--------|-------------|----------------|------|
+| 27 | Remove Element | array | easy | 2025-11-30 | [View](array/0027-remove-element) |
 | 88 | Merge Sorted Array | array | easy | 2025-11-30 | [View](array/0088-merge-sorted-array) |
 
 ## 📁 Folder Structure
